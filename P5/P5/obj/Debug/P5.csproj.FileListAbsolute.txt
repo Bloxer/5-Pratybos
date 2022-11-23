@@ -1,0 +1,8 @@
+C:\Users\Dede\source\repos\P5\P5\bin\Debug\P5.exe.config
+C:\Users\Dede\source\repos\P5\P5\bin\Debug\P5.exe
+C:\Users\Dede\source\repos\P5\P5\bin\Debug\P5.pdb
+C:\Users\Dede\source\repos\P5\P5\obj\Debug\P5.csproj.AssemblyReference.cache
+C:\Users\Dede\source\repos\P5\P5\obj\Debug\P5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dede\source\repos\P5\P5\obj\Debug\P5.csproj.CoreCompileInputs.cache
+C:\Users\Dede\source\repos\P5\P5\obj\Debug\P5.exe
+C:\Users\Dede\source\repos\P5\P5\obj\Debug\P5.pdb
