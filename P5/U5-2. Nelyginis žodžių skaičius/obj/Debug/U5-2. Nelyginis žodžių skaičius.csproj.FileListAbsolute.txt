@@ -1,0 +1,8 @@
+C:\Users\Dede\source\repos\P5\U5-2. Nelyginis žodžių skaičius\bin\Debug\U5_2.Nelyginis_žodžių_skaičius.exe.config
+C:\Users\Dede\source\repos\P5\U5-2. Nelyginis žodžių skaičius\bin\Debug\U5_2.Nelyginis_žodžių_skaičius.exe
+C:\Users\Dede\source\repos\P5\U5-2. Nelyginis žodžių skaičius\bin\Debug\U5_2.Nelyginis_žodžių_skaičius.pdb
+C:\Users\Dede\source\repos\P5\U5-2. Nelyginis žodžių skaičius\obj\Debug\U5-2. Nelyginis žodžių skaičius.csproj.AssemblyReference.cache
+C:\Users\Dede\source\repos\P5\U5-2. Nelyginis žodžių skaičius\obj\Debug\U5-2. Nelyginis žodžių skaičius.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dede\source\repos\P5\U5-2. Nelyginis žodžių skaičius\obj\Debug\U5-2. Nelyginis žodžių skaičius.csproj.CoreCompileInputs.cache
+C:\Users\Dede\source\repos\P5\U5-2. Nelyginis žodžių skaičius\obj\Debug\U5_2.Nelyginis_žodžių_skaičius.exe
+C:\Users\Dede\source\repos\P5\U5-2. Nelyginis žodžių skaičius\obj\Debug\U5_2.Nelyginis_žodžių_skaičius.pdb

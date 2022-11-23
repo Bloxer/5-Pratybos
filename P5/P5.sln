@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P5", "P5\P5.csproj", "{7424
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P5-1", "P5-1\P5-1.csproj", "{71AB4623-7C6B-4BE6-8EFA-E616600855A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P5-2", "P5-2\P5-2.csproj", "{B7699F0E-7AF9-4A5F-BF5D-17701404CBB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U5-2. Nelyginis žodžių skaičius", "U5-2. Nelyginis žodžių skaičius\U5-2. Nelyginis žodžių skaičius.csproj", "{F903848F-A87A-499B-9690-319EA6BBDAA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{71AB4623-7C6B-4BE6-8EFA-E616600855A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71AB4623-7C6B-4BE6-8EFA-E616600855A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71AB4623-7C6B-4BE6-8EFA-E616600855A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7699F0E-7AF9-4A5F-BF5D-17701404CBB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7699F0E-7AF9-4A5F-BF5D-17701404CBB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7699F0E-7AF9-4A5F-BF5D-17701404CBB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7699F0E-7AF9-4A5F-BF5D-17701404CBB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F903848F-A87A-499B-9690-319EA6BBDAA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F903848F-A87A-499B-9690-319EA6BBDAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F903848F-A87A-499B-9690-319EA6BBDAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F903848F-A87A-499B-9690-319EA6BBDAA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
