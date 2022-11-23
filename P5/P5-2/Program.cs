@@ -31,7 +31,6 @@ namespace P5_2
                     i++;
                 }
             }
-
         }
         static void Spausdinti(string fvr, string[] eilutes)
         {
